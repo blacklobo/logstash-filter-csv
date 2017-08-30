@@ -1,3 +1,6 @@
+## 3.0.6
+  - Added setting multiple_file_types
+
 ## 3.0.5
   - Fix some documentation issues
 
